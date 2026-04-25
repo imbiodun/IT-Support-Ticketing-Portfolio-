@@ -30,3 +30,4 @@ Will continue troubleshooting by:
 - Re-signing into OneDrive
 - Resetting OneDrive client using `%localappdata%\Microsoft\OneDrive\onedrive.exe /reset`
 - Checking Windows updates
+![File Explorer Screenshot](https://github.com/user-attachments/assets/8fd4fa29-4cad-4358-8183-b181ae6b1d37)
