@@ -27,5 +27,6 @@ A background application was consuming excessive CPU resources.
 # Notes
 Screenshot of Task Manager included for reference.
 
-![Task Manager Screenshot](https://github.com/user-attachments/assets/f90c0478-2eef-4e42-b19c-be2d44eb9596)
+![Task Manager Screenshot before fix](https://github.com/user-attachments/assets/f90c0478-2eef-4e42-b19c-be2d44eb9596)
+![Task Manager Screenshot after fix](https://github.com/user-attachments/assets/e6f9c20d-9608-4b41-bc72-511546b20dfd)
 
